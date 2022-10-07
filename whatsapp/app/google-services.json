@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279418903132",
+    "project_id": "whatsapp-cloone",
+    "storage_bucket": "whatsapp-cloone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279418903132:android:87e1ca7c572c5d3f562499",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279418903132-bpov14qd3oan7gqglmaiqv5ff66fqgq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsb97MexllQkz-axaNHtf5uBAoNUfqT9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279418903132-bpov14qd3oan7gqglmaiqv5ff66fqgq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
